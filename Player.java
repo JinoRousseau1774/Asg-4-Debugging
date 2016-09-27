@@ -1,4 +1,4 @@
-/** */
+/** Testing */
 public class Player {
 	private String name;
 	private int balance;
